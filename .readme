@@ -1,0 +1,7 @@
+
+Para executar o script dê-lhe a permissão de execução
+
+chmod +x instalador.sh
+
+e seguida execute-o da seguinte forma
+sh instalador.sh
